@@ -5,7 +5,6 @@ Aquí encontrarás una presentación, un archivo PDF con información detallada 
 
 ## Contenido 📂
 
-- 📑 Presentación
 - 📄 Documento PDF
 - 🎮 Kahoot
 
@@ -33,9 +32,9 @@ Son ideales para aplicaciones que requieren escalabilidad horizontal y manejo de
 
 ## Uso 🚀
 
-1. **📑 Presentación:** Revisa la presentación para obtener una visión general del tema.
-2. **📄 Documento PDF:** Lee el documento PDF para una comprensión más profunda.
-3. **🎮 Kahoot:** Realiza el Kahoot para evaluar tus conocimientos.
+1. **📄 Documento PDF:** Lee el documento PDF para una comprensión más profunda.
+2. **🎮 Kahoot:** Realiza el Kahoot para evaluar tus conocimientos.
+[Participar en Kahoot](https://kahoot.it/?pin=440089&refer_method=link)
 
 ## Contribuciones 🤝
 
