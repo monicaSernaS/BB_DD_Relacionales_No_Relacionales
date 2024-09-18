@@ -1,7 +1,7 @@
 # Bases de Datos Relacionales y No Relacionales 📊
 
 Este repositorio contiene material sobre bases de datos relacionales (SQL) y no relacionales (NoSQL). 
-Aquí encontrarás una presentación, un archivo PDF con información detallada y un Kahoot para evaluar tus conocimientos.
+Aquí encontrarás un archivo PDF con información detallada y un Kahoot para evaluar tus conocimientos.
 
 ## Contenido 📂
 
