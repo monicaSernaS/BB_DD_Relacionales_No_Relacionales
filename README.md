@@ -33,6 +33,9 @@ Son ideales para aplicaciones que requieren escalabilidad horizontal y manejo de
 ## Uso 🚀
 
 1. **📄 Documento PDF:** Lee el documento PDF para una comprensión más profunda.
+
+ [Ver Documento PDF](https://github.com/monicaSernaS/BB_DD_Relacionales_No_Relacionales/blob/main/pildora_BBDD_R_NOR.pdf)  
+
 2. **🎮 Kahoot:** Realiza el Kahoot para evaluar tus conocimientos.
 [Participar en Kahoot](https://kahoot.it/?pin=440089&refer_method=link)
 
